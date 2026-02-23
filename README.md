@@ -155,19 +155,6 @@ When no product is selected, a curated "Trending Right Now" section is shown. It
 | `max_features` | `engine.py` | `8_000` | TF-IDF vocabulary cap |
 | `RANDOM_SEED` | `data_generator.py` | `42` | Reproducibility seed |
 
----
-
-## 🍎 Apple M4 Optimisations
-
-| Technique | Benefit |
-|-----------|---------|
-| `float32` similarity matrix | 50% RAM reduction vs float64 |
-| Pandas `category` dtype for low-cardinality columns | 4–8× less memory for string columns |
-| Explicit dtype mapping on CSV load | Avoids dtype inference overhead |
-| `numpy.argpartition` for top-N | O(n) vs O(n log n) full sort |
-| `functools.lru_cache` on recommendations | Repeated queries cost O(1) |
-| `@st.cache_data` on data load | TF-IDF matrix built once per session |
-| Native ARM64 wheels (NumPy, scikit-learn) | No Rosetta 2 translation overhead |
 
 ---
 
