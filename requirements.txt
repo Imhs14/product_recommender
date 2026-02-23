@@ -1,0 +1,12 @@
+# Product Recommendation System — Dependencies
+# Tested on macOS 14+ / Apple M4 / Python 3.11+
+
+# Core ML & NLP
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# Data handling
+pandas>=2.2.0
+
+# Web UI
+streamlit>=1.35.0

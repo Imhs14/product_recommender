@@ -1,0 +1,521 @@
+Product_ID,Product_Name,Category,Description,Tags,Price
+1,Smart Headphones,Electronics,Experience crystal-clear audio with this Smart Headphones featuring HD video support.,"tech, bluetooth, productivity, noise-cancelling, electronics",303.43
+2,Essential Guide,Books,This bestselling Essential Guide on data science has transformed how professionals learn.,"reading, book, reference, fiction, books",42.48
+3,Compact Kettlebell,Fitness,Elevate your workout with this Compact Kettlebell optimized for flexibility exercises.,"fitness, workout, cardio, strength, recovery",59.3
+4,Ceramic Pot,Kitchen,"Cook smarter with this Ceramic Pot, ideal for slow cooking.","meal-prep, appliance, baking, kitchen",284.99
+5,Breathable Sweatshirt,Clothing,Performance-ready Breathable Sweatshirt built for everyday comfort in any weather.,"sportswear, sustainable, comfort, clothing",95.05
+6,Organic Moisturizer,Beauty,Achieve glowing skin with this Organic Moisturizer designed for sensitive skin.,"organic, skincare, anti-aging, beauty",39.85
+7,Vintage Candle,Home Decor,"Transform your room with this Vintage Candle, perfect for mid-century modern aesthetics.","rustic, interior-design, minimalist, aesthetic, home-decor",186.33
+8,Wireless Capture Card,Gaming,Professional-grade Wireless Capture Card built for hot-swap switches and marathon sessions.,"mmorpg, gaming, mechanical, streamer",43.45
+9,Portable Charger,Electronics,High-performance Portable Charger with advanced noise-cancellation and HD video support.,"streaming, audio, gadget, usb-c, electronics",209.89
+10,Comprehensive Compendium,Books,From basics to mastery: the Comprehensive Compendium for anyone interested in history.,"reference, reading, nonfiction, fiction, books",39.22
+11,Heavy-Duty Yoga Mat,Fitness,"Heavy-Duty Yoga Mat designed for home and gym use, featuring recovery sessions.","cardio, recovery, yoga, exercise, home-gym, fitness",208.87
+12,Stainless Steel Dutch Oven,Kitchen,The Stainless Steel Dutch Oven every kitchen needs for batch cooking.,"cooking, baking, healthy-eating, appliance, chef, kitchen",14.08
+13,Thermal Sweatshirt,Clothing,Thermal Sweatshirt crafted for outdoor adventures with premium sustainable materials.,"sportswear, activewear, apparel, style, fashion, clothing",90.11
+14,Nourishing Moisturizer,Beauty,Luxury skincare: Nourishing Moisturizer packed with actives for brightening.,"skincare, moisturizing, spf, beauty",35.57
+15,Rustic Planter,Home Decor,Rustic Planter that adds character and warmth to any bedroom space.,"interior-design, cozy, minimalist, aesthetic, modern, boho, home-decor",237.5
+16,Wireless Mouse Pad,Gaming,Dominate the game with this Wireless Mouse Pad featuring hot-swap switches.,"fps, streamer, mmorpg, mechanical, gaming",542.27
+17,Bluetooth Speaker,Electronics,Experience crystal-clear audio with this Bluetooth Speaker featuring USB-C connectivity.,"audio, wireless, streaming, electronics",285.87
+18,Advanced Encyclopedia,Books,A Advanced Encyclopedia covering machine learning with real-world examples and exercises.,"reference, learning, book, books",52.97
+19,Professional Balance Board,Fitness,"Durable and versatile, the Professional Balance Board supports flexibility exercises training regimens.","health, home-gym, workout, yoga, gym, training, fitness",245.13
+20,Multi-Function Pot,Kitchen,"Cook smarter with this Multi-Function Pot, ideal for slow cooking.","healthy-eating, appliance, eco-friendly, nonstick, meal-prep, kitchen",31.25
+21,Relaxed T-Shirt,Clothing,Versatile Relaxed T-Shirt that transitions seamlessly from office wear to casual wear.,"activewear, eco-friendly, sportswear, clothing",89.71
+22,Vegan Lip Balm,Beauty,Achieve glowing skin with this Vegan Lip Balm designed for oil control.,"organic, skincare, cruelty-free, anti-aging, spf, beauty",14.61
+23,Artisan Wall Art,Home Decor,Hand-crafted Artisan Wall Art inspired by bedroom design traditions.,"handmade, artisan, cozy, interior-design, home-decor",218.18
+24,Mechanical Headset,Gaming,Mechanical Headset engineered for competitive gaming with hot-swap switches.,"fps, controller, pc-gaming, mechanical, mmorpg, peripheral, gaming",405.57
+25,Bluetooth Monitor,Electronics,"Engineered for professionals, this Bluetooth Monitor delivers USB-C connectivity and seamless connectivity.","wireless, streaming, productivity, ergonomic, electronics",379.02
+26,Advanced Handbook,Books,"Packed with insights, this Advanced Handbook explores philosophy in depth.","study, reference, book, books",40.96
+27,Resistance Exercise Bike,Fitness,"Durable and versatile, the Resistance Exercise Bike supports strength building training regimens.","training, strength, health, exercise, fitness",127.79
+28,Cast Iron Instant Pot,Kitchen,Cast Iron Instant Pot built for pressure cooking — perfect for everyday cooking and entertaining.,"eco-friendly, cooking, nonstick, kitchen",194.17
+29,Recycled Leggings,Clothing,Versatile Recycled Leggings that transitions seamlessly from outdoor adventures to casual wear.,"activewear, comfort, sustainable, clothing",40.5
+30,Nourishing Eye Cream,Beauty,Achieve glowing skin with this Nourishing Eye Cream designed for daily hydration.,"vegan, spf, skincare, beauty",107.75
+31,Artisan Candle,Home Decor,"Transform your room with this Artisan Candle, perfect for bohemian aesthetics.","modern, boho, rustic, artisan, home-decor",129.79
+32,Mechanical Mechanical Keyboard,Gaming,Professional-grade Mechanical Mechanical Keyboard built for hot-swap switches and marathon sessions.,"gaming, mmorpg, rgb",391.33
+33,Compact Monitor,Electronics,Next-generation Compact Monitor powered by AI with touch controls.,"bluetooth, ergonomic, tech, electronics",281.87
+34,Definitive Anthology,Books,This bestselling Definitive Anthology on astronomy has transformed how professionals learn.,"education, book, nonfiction, study, reading, bestseller, books",20.49
+35,Heavy-Duty Resistance Bands,Fitness,Elevate your workout with this Heavy-Duty Resistance Bands optimized for strength building.,"health, workout, recovery, cardio, fitness",22.05
+36,Ceramic Knife Set,Kitchen,The Ceramic Knife Set every kitchen needs for baking.,"cooking, healthy-eating, kitchen, nonstick",171.61
+37,Organic Vest,Clothing,Versatile Organic Vest that transitions seamlessly from running to casual wear.,"activewear, clothing, eco-friendly, style",62.66
+38,Organic Eye Cream,Beauty,Luxury skincare: Organic Eye Cream packed with actives for brightening.,"beauty, skincare, spf, clean-beauty, cruelty-free",115.83
+39,Modern Wall Art,Home Decor,Elegant Modern Wall Art designed to complement bedroom interior styles.,"modern, handmade, interior-design, boho, rustic, home-decor",59.66
+40,Mechanical Monitor,Gaming,Dominate the game with this Mechanical Monitor featuring ultra-low latency.,"streamer, esports, mmorpg, fps, rgb, gaming",406.44
+41,Smart USB Hub,Electronics,"Engineered for professionals, this Smart USB Hub delivers HD video support and seamless connectivity.","audio, smart, portable, productivity, tech, bluetooth, electronics",221.8
+42,Beginner's Manual,Books,From basics to mastery: the Beginner's Manual for anyone interested in astronomy.,"reading, book, nonfiction, education, learning, reference, books",49.28
+43,Compact Foam Roller,Fitness,Elevate your workout with this Compact Foam Roller optimized for yoga practice.,"training, health, home-gym, yoga, cardio, strength, fitness",63.35
+44,Stainless Steel Coffee Maker,Kitchen,The Stainless Steel Coffee Maker every kitchen needs for batch cooking.,"chef, baking, appliance, kitchen",284.8
+45,Moisture-Wicking T-Shirt,Clothing,"Stay comfortable all day in this Moisture-Wicking T-Shirt, designed for athletic performance.","eco-friendly, fashion, style, activewear, comfort, sustainable, clothing",45.27
+46,Soothing Body Lotion,Beauty,Dermatologist-tested Soothing Body Lotion for pore minimizing and long-lasting radiance.,"beauty, skincare, anti-aging, clean-beauty",28.51
+47,Artisan Mirror,Home Decor,Hand-crafted Artisan Mirror inspired by living room design traditions.,"artisan, minimalist, aesthetic, home-decor",171.87
+48,Pro Capture Card,Gaming,The Pro Capture Card trusted by esports pros — delivers hot-swap switches.,"controller, pc-gaming, fps, streamer, gaming",167.15
+49,Compact Microphone,Electronics,Experience crystal-clear audio with this Compact Microphone featuring touch controls.,"usb-c, bluetooth, portable, gadget, streaming, electronics",181.2
+50,Complete Atlas,Books,"Packed with insights, this Complete Atlas explores economics in depth.","reference, bestseller, reading, books",55.23
+51,Compact Dumbbells,Fitness,Elevate your workout with this Compact Dumbbells optimized for recovery sessions.,"strength, exercise, cardio, fitness",258.22
+52,BPA-Free Toaster,Kitchen,Professional-grade BPA-Free Toaster engineered for batch cooking and easy cleanup.,"chef, baking, healthy-eating, appliance, kitchen, eco-friendly",126.27
+53,Windproof Joggers,Clothing,"Stay comfortable all day in this Windproof Joggers, designed for weekend lounging.","organic, clothing, fashion",103.55
+54,Vegan Body Lotion,Beauty,Vegan Body Lotion formulated with natural ingredients for oil control.,"anti-aging, moisturizing, organic, cruelty-free, vegan, beauty",46.45
+55,Industrial Picture Frame,Home Decor,"Transform your room with this Industrial Picture Frame, perfect for coastal aesthetics.","artisan, home-decor, cozy",249.97
+56,Pro Controller,Gaming,Pro Controller engineered for competitive gaming with customizable RGB lighting.,"mechanical, pc-gaming, gaming",382.26
+57,Pro Monitor,Electronics,High-performance Pro Monitor with advanced noise-cancellation and touch controls.,"usb-c, portable, audio, tech, electronics",310.82
+58,Comprehensive Handbook,Books,From basics to mastery: the Comprehensive Handbook for anyone interested in history.,"study, book, nonfiction, books",38.78
+59,Resistance Kettlebell,Fitness,"Resistance Kettlebell designed for home and gym use, featuring flexibility exercises.","gym, exercise, training, fitness",113.94
+60,BPA-Free Dutch Oven,Kitchen,BPA-Free Dutch Oven built for pressure cooking — perfect for everyday cooking and entertaining.,"kitchen, healthy-eating, eco-friendly, appliance, chef",336.78
+61,Breathable Joggers,Clothing,"Stay comfortable all day in this Breathable Joggers, designed for office wear.","eco-friendly, sportswear, style, activewear, organic, clothing",127.34
+62,Anti-Aging Toner,Beauty,Anti-Aging Toner formulated with natural ingredients for sensitive skin.,"cruelty-free, organic, glow, spf, anti-aging, beauty",83.16
+63,Vintage Wall Art,Home Decor,"Transform your room with this Vintage Wall Art, perfect for minimalist aesthetics.","artisan, boho, modern, handmade, home-decor",75.7
+64,Ultra-Light GPU Cooler,Gaming,Ultra-Light GPU Cooler engineered for competitive gaming with surround sound.,"esports, mechanical, streamer, peripheral, gaming",344.22
+65,Pro USB Hub,Electronics,Next-generation Pro USB Hub powered by AI with touch controls.,"wireless, bluetooth, portable, gadget, smart, audio, electronics",136.78
+66,Comprehensive Journal,Books,"Packed with insights, this Comprehensive Journal explores software engineering in depth.","bestseller, reading, fiction, education, knowledge, books",32.68
+67,Adjustable Jump Rope,Fitness,"Adjustable Jump Rope designed for home and gym use, featuring flexibility exercises.","strength, gym, home-gym, workout, fitness",69.58
+68,Insulated Coffee Maker,Kitchen,The Insulated Coffee Maker every kitchen needs for batch cooking.,"chef, baking, appliance, kitchen",134.61
+69,Thermal T-Shirt,Clothing,Versatile Thermal T-Shirt that transitions seamlessly from outdoor adventures to casual wear.,"clothing, sportswear, sustainable",110.65
+70,Anti-Aging Body Lotion,Beauty,Anti-Aging Body Lotion formulated with natural ingredients for anti-aging benefits.,"cruelty-free, skincare, beauty, clean-beauty, anti-aging, spf",114.34
+71,Boho Vase,Home Decor,Elegant Boho Vase designed to complement bedroom interior styles.,"cozy, handmade, artisan, boho, home-decor",84.87
+72,Wired Mouse Pad,Gaming,Wired Mouse Pad engineered for competitive gaming with ultra-low latency.,"mechanical, fps, esports, controller, gaming",162.91
+73,AI-Powered Speaker,Electronics,High-performance AI-Powered Speaker with advanced noise-cancellation and multi-device pairing.,"usb-c, streaming, ergonomic, portable, wireless, bluetooth, electronics",158.28
+74,Complete Compendium,Books,This bestselling Complete Compendium on data science has transformed how professionals learn.,"study, reference, bestseller, book, nonfiction, books",21.23
+75,Heavy-Duty Jump Rope,Fitness,"Heavy-Duty Jump Rope designed for home and gym use, featuring cardio sessions.","workout, exercise, recovery, fitness",140.15
+76,Non-Stick Pot,Kitchen,Non-Stick Pot built for baking — perfect for everyday cooking and entertaining.,"appliance, kitchen, food, chef, baking",232.55
+77,Thermal Joggers,Clothing,Performance-ready Thermal Joggers built for office wear in any weather.,"style, comfort, organic, clothing",63.32
+78,Organic Face Wash,Beauty,Luxury skincare: Organic Face Wash packed with actives for brightening.,"spf, anti-aging, beauty, organic, cruelty-free, vegan",37.01
+79,Boho Table Lamp,Home Decor,Boho Table Lamp that adds character and warmth to any eclectic space.,"handmade, home-decor, boho, rustic, minimalist, aesthetic",192.75
+80,Optical Gaming Mouse,Gaming,Professional-grade Optical Gaming Mouse built for 6-axis tracking and marathon sessions.,"fps, controller, peripheral, gaming",41.59
+81,Smart Earbuds,Electronics,Experience crystal-clear audio with this Smart Earbuds featuring fast charging.,"ergonomic, portable, productivity, noise-cancelling, smart, usb-c, electronics",251.59
+82,Beginner's Encyclopedia,Books,This bestselling Beginner's Encyclopedia on economics has transformed how professionals learn.,"reference, reading, education, bestseller, book, knowledge, books",48.62
+83,Foldable Kettlebell,Fitness,"Durable and versatile, the Foldable Kettlebell supports strength building training regimens.","exercise, training, yoga, fitness",261.59
+84,Insulated Toaster,Kitchen,The Insulated Toaster every kitchen needs for precision slicing.,"nonstick, appliance, healthy-eating, chef, food, kitchen",306.05
+85,Organic Track Pants,Clothing,"Stay comfortable all day in this Organic Track Pants, designed for office wear.","clothing, comfort, style, sportswear, activewear, organic",148.48
+86,Nourishing Lip Balm,Beauty,Luxury skincare: Nourishing Lip Balm packed with actives for brightening.,"glow, skincare, organic, beauty",79.05
+87,Modern Vase,Home Decor,Elegant Modern Vase designed to complement bedroom interior styles.,"interior-design, artisan, minimalist, home-decor",178.08
+88,Mechanical Gaming Mouse,Gaming,Mechanical Gaming Mouse engineered for competitive gaming with anti-ghosting.,"mmorpg, pc-gaming, streamer, esports, controller, gaming",330.41
+89,Ultra Monitor,Electronics,High-performance Ultra Monitor with advanced noise-cancellation and multi-device pairing.,"streaming, noise-cancelling, gadget, usb-c, tech, bluetooth, electronics",241.34
+90,Complete Primer,Books,"Packed with insights, this Complete Primer explores creative writing in depth.","reference, bestseller, knowledge, book, learning, books",29.06
+91,Adjustable Exercise Bike,Fitness,"Durable and versatile, the Adjustable Exercise Bike supports HIIT routines training regimens.","training, cardio, exercise, fitness",17.3
+92,Non-Stick Food Processor,Kitchen,The Non-Stick Food Processor every kitchen needs for precision slicing.,"appliance, meal-prep, chef, nonstick, kitchen",77.06
+93,Thermal Shorts,Clothing,"Stay comfortable all day in this Thermal Shorts, designed for office wear.","apparel, sportswear, comfort, sustainable, clothing",85.22
+94,Anti-Aging Face Wash,Beauty,Luxury skincare: Anti-Aging Face Wash packed with actives for UV protection.,"moisturizing, skincare, cruelty-free, beauty, clean-beauty",92.7
+95,Rustic Table Lamp,Home Decor,"Transform your room with this Rustic Table Lamp, perfect for eclectic aesthetics.","handmade, home-decor, rustic",141.08
+96,Optical Gaming Chair,Gaming,The Optical Gaming Chair trusted by esports pros — delivers surround sound.,"esports, mechanical, controller, gaming, fps",533.43
+97,AI-Powered Webcam,Electronics,High-performance AI-Powered Webcam with advanced noise-cancellation and USB-C connectivity.,"ergonomic, portable, smart, bluetooth, tech, wireless, electronics",474.2
+98,Comprehensive Atlas,Books,This bestselling Comprehensive Atlas on biohacking has transformed how professionals learn.,"learning, knowledge, bestseller, education, book, reading, books",20.85
+99,Resistance Pull-Up Bar,Fitness,"Resistance Pull-Up Bar designed for home and gym use, featuring strength building.","home-gym, strength, fitness, cardio, workout",69.09
+100,Stainless Steel Instant Pot,Kitchen,Professional-grade Stainless Steel Instant Pot engineered for slow cooking and easy cleanup.,"kitchen, meal-prep, chef",346.22
+101,Organic Hoodie,Clothing,"Stay comfortable all day in this Organic Hoodie, designed for travel.","comfort, apparel, clothing, sportswear",131.58
+102,Vegan Face Wash,Beauty,Dermatologist-tested Vegan Face Wash for UV protection and long-lasting radiance.,"beauty, vegan, glow",48.75
+103,Boho Throw Pillow,Home Decor,Elegant Boho Throw Pillow designed to complement minimalist interior styles.,"cozy, interior-design, artisan, rustic, aesthetic, home-decor",237.16
+104,Mechanical Stream Deck,Gaming,The Mechanical Stream Deck trusted by esports pros — delivers surround sound.,"gaming, controller, streamer",270.1
+105,Compact Tablet,Electronics,Next-generation Compact Tablet powered by AI with low-latency streaming.,"usb-c, productivity, streaming, smart, bluetooth, electronics",400.68
+106,Essential Atlas,Books,"Packed with insights, this Essential Atlas explores philosophy in depth.","reference, bestseller, fiction, reading, study, knowledge, books",30.79
+107,Professional Foam Roller,Fitness,"Durable and versatile, the Professional Foam Roller supports recovery sessions training regimens.","strength, workout, yoga, gym, fitness",252.04
+108,Stainless Steel Knife Set,Kitchen,The Stainless Steel Knife Set every kitchen needs for slow cooking.,"nonstick, kitchen, meal-prep, eco-friendly",54.18
+109,Stretch Polo,Clothing,Versatile Stretch Polo that transitions seamlessly from athletic performance to casual wear.,"comfort, fashion, activewear, sportswear, eco-friendly, clothing",82.67
+110,Organic Toner,Beauty,Organic Toner formulated with natural ingredients for brightening.,"glow, organic, anti-aging, cruelty-free, spf, beauty",117.16
+111,Scandinavian Planter,Home Decor,Scandinavian Planter that adds character and warmth to any coastal space.,"home-decor, interior-design, boho, artisan",113.65
+112,Pro Headset,Gaming,Professional-grade Pro Headset built for anti-ghosting and marathon sessions.,"pc-gaming, esports, gaming, peripheral, streamer",458.79
+113,Wireless Laptop Stand,Electronics,"Engineered for professionals, this Wireless Laptop Stand delivers fast charging and seamless connectivity.","noise-cancelling, smart, usb-c, streaming, ergonomic, tech, electronics",123.46
+114,Beginner's Journal,Books,A Beginner's Journal covering machine learning with real-world examples and exercises.,"nonfiction, reference, education, bestseller, books",22.77
+115,Adjustable Resistance Bands,Fitness,Elevate your workout with this Adjustable Resistance Bands optimized for full-body workouts.,"workout, training, cardio, health, exercise, home-gym, fitness",252.5
+116,Insulated Cutting Board,Kitchen,"Cook smarter with this Insulated Cutting Board, ideal for slow cooking.","chef, healthy-eating, nonstick, kitchen",189.57
+117,Windproof Leggings,Clothing,"Stay comfortable all day in this Windproof Leggings, designed for running.","apparel, fashion, sportswear, sustainable, organic, clothing",45.2
+118,Brightening Toner,Beauty,Dermatologist-tested Brightening Toner for oil control and long-lasting radiance.,"vegan, spf, organic, beauty",28.25
+119,Scandinavian Throw Pillow,Home Decor,Elegant Scandinavian Throw Pillow designed to complement home office interior styles.,"aesthetic, artisan, modern, handmade, cozy, minimalist, home-decor",50.46
+120,RGB Capture Card,Gaming,Professional-grade RGB Capture Card built for 60Hz+ refresh rate and marathon sessions.,"pc-gaming, gaming, mmorpg, fps, peripheral",203.47
+121,Bluetooth Headphones,Electronics,"Engineered for professionals, this Bluetooth Headphones delivers 40-hour battery life and seamless connectivity.","bluetooth, noise-cancelling, ergonomic, productivity, smart, electronics",242.09
+122,Advanced Guide,Books,This bestselling Advanced Guide on economics has transformed how professionals learn.,"study, knowledge, education, book, reference, books",15.17
+123,Foldable Foam Roller,Fitness,Build strength at home with this Foldable Foam Roller — perfect for core training.,"health, yoga, recovery, fitness",164.35
+124,Eco-Friendly Cutting Board,Kitchen,The Eco-Friendly Cutting Board every kitchen needs for pressure cooking.,"healthy-eating, meal-prep, kitchen, appliance, nonstick, food",35.2
+125,Relaxed Sweatshirt,Clothing,Versatile Relaxed Sweatshirt that transitions seamlessly from office wear to casual wear.,"eco-friendly, apparel, comfort, clothing, sustainable",106.26
+126,Brightening Eye Cream,Beauty,Dermatologist-tested Brightening Eye Cream for pore minimizing and long-lasting radiance.,"spf, clean-beauty, anti-aging, beauty",80.42
+127,Vintage Mirror,Home Decor,Hand-crafted Vintage Mirror inspired by Scandinavian design traditions.,"minimalist, interior-design, rustic, handmade, home-decor",200.2
+128,Mechanical Gaming Chair,Gaming,The Mechanical Gaming Chair trusted by esports pros — delivers tactile switches.,"rgb, pc-gaming, peripheral, mmorpg, gaming",276.65
+129,4K Webcam,Electronics,Next-generation 4K Webcam powered by AI with USB-C connectivity.,"ergonomic, usb-c, gadget, productivity, streaming, electronics",168.53
+130,Definitive Compendium,Books,From basics to mastery: the Definitive Compendium for anyone interested in philosophy.,"knowledge, nonfiction, bestseller, reading, study, reference, books",58.3
+131,Foldable Pull-Up Bar,Fitness,"Durable and versatile, the Foldable Pull-Up Bar supports cardio sessions training regimens.","training, yoga, strength, fitness",173.03
+132,Stainless Steel Toaster,Kitchen,The Stainless Steel Toaster every kitchen needs for slow cooking.,"food, baking, eco-friendly, kitchen",318.08
+133,Moisture-Wicking Polo,Clothing,"Stay comfortable all day in this Moisture-Wicking Polo, designed for everyday comfort.","comfort, clothing, organic, sportswear, activewear, sustainable",68.6
+134,Soothing Serum,Beauty,Dermatologist-tested Soothing Serum for brightening and long-lasting radiance.,"moisturizing, skincare, glow, beauty",96.83
+135,Scandinavian Wall Art,Home Decor,Elegant Scandinavian Wall Art designed to complement bohemian interior styles.,"artisan, aesthetic, home-decor, cozy",19.46
+136,Ergonomic Headset,Gaming,Ergonomic Headset engineered for competitive gaming with hot-swap switches.,"mechanical, fps, esports, gaming, controller",266.39
+137,Ultra Mouse,Electronics,High-performance Ultra Mouse with advanced noise-cancellation and ergonomic design.,"gadget, streaming, smart, tech, bluetooth, electronics",271.26
+138,Complete Handbook,Books,A Complete Handbook covering psychology with real-world examples and exercises.,"knowledge, book, bestseller, education, study, reading, books",27.84
+139,Foldable Ab Wheel,Fitness,Build strength at home with this Foldable Ab Wheel — perfect for yoga practice.,"gym, yoga, fitness, exercise",72.44
+140,Multi-Function Pan,Kitchen,The Multi-Function Pan every kitchen needs for pressure cooking.,"nonstick, eco-friendly, baking, kitchen, meal-prep, cooking",109.41
+141,Slim-Fit Shorts,Clothing,Slim-Fit Shorts crafted for yoga sessions with premium sustainable materials.,"organic, eco-friendly, style, activewear, apparel, clothing",146.57
+142,Purifying Body Lotion,Beauty,Achieve glowing skin with this Purifying Body Lotion designed for brightening.,"anti-aging, skincare, glow, beauty",75.86
+143,Scandinavian Rug,Home Decor,"Transform your room with this Scandinavian Rug, perfect for bohemian aesthetics.","interior-design, modern, rustic, home-decor",87.02
+144,Wired Headset,Gaming,Professional-grade Wired Headset built for 60Hz+ refresh rate and marathon sessions.,"gaming, mmorpg, streamer, rgb, peripheral, pc-gaming",68.14
+145,Pro Microphone,Electronics,"Engineered for professionals, this Pro Microphone delivers low-latency streaming and seamless connectivity.","streaming, wireless, ergonomic, tech, usb-c, productivity, electronics",198.56
+146,Definitive Handbook,Books,This bestselling Definitive Handbook on astronomy has transformed how professionals learn.,"bestseller, fiction, nonfiction, learning, book, books",11.29
+147,Heavy-Duty Ab Wheel,Fitness,"Heavy-Duty Ab Wheel designed for home and gym use, featuring recovery sessions.","exercise, yoga, health, training, strength, fitness",276.19
+148,Insulated Air Fryer,Kitchen,Professional-grade Insulated Air Fryer engineered for slow cooking and easy cleanup.,"eco-friendly, food, appliance, kitchen",349.07
+149,Stretch Shorts,Clothing,Versatile Stretch Shorts that transitions seamlessly from everyday comfort to casual wear.,"apparel, eco-friendly, comfort, sustainable, fashion, clothing",35.77
+150,SPF-Protected Face Wash,Beauty,Luxury skincare: SPF-Protected Face Wash packed with actives for sensitive skin.,"moisturizing, clean-beauty, glow, beauty",60.87
+151,Boho Candle,Home Decor,Boho Candle that adds character and warmth to any mid-century modern space.,"artisan, cozy, modern, interior-design, rustic, aesthetic, home-decor",57.75
+152,Wireless Monitor,Gaming,Wireless Monitor engineered for competitive gaming with ultra-low latency.,"fps, rgb, peripheral, controller, gaming",562.46
+153,Pro Webcam,Electronics,High-performance Pro Webcam with advanced noise-cancellation and HD video support.,"gadget, noise-cancelling, productivity, portable, tech, electronics",320.0
+154,Advanced Atlas,Books,This bestselling Advanced Atlas on data science has transformed how professionals learn.,"education, fiction, book, bestseller, books",53.18
+155,Professional Dumbbells,Fitness,Build strength at home with this Professional Dumbbells — perfect for HIIT routines.,"recovery, fitness, yoga, exercise, strength, workout",152.63
+156,BPA-Free Coffee Maker,Kitchen,BPA-Free Coffee Maker built for precision slicing — perfect for everyday cooking and entertaining.,"food, eco-friendly, healthy-eating, kitchen",176.18
+157,Organic Shorts,Clothing,Versatile Organic Shorts that transitions seamlessly from outdoor adventures to casual wear.,"comfort, organic, apparel, sportswear, style, clothing",86.94
+158,Hydrating Eye Cream,Beauty,Luxury skincare: Hydrating Eye Cream packed with actives for pore minimizing.,"vegan, moisturizing, clean-beauty, skincare, beauty",93.7
+159,Coastal Rug,Home Decor,Elegant Coastal Rug designed to complement minimalist interior styles.,"artisan, home-decor, interior-design, boho, rustic",122.44
+160,Ergonomic Controller,Gaming,Ergonomic Controller engineered for competitive gaming with anti-ghosting.,"fps, controller, peripheral, gaming",189.3
+161,Wireless Speaker,Electronics,Experience crystal-clear audio with this Wireless Speaker featuring ergonomic design.,"ergonomic, audio, smart, noise-cancelling, wireless, electronics",212.27
+162,Advanced Journal,Books,This bestselling Advanced Journal on data science has transformed how professionals learn.,"bestseller, fiction, reading, books",37.88
+163,Adjustable Yoga Mat,Fitness,Elevate your workout with this Adjustable Yoga Mat optimized for flexibility exercises.,"fitness, training, workout",218.36
+164,Cast Iron Food Processor,Kitchen,"Cook smarter with this Cast Iron Food Processor, ideal for pressure cooking.","eco-friendly, kitchen, meal-prep, food, appliance",49.93
+165,Windproof Track Pants,Clothing,Windproof Track Pants crafted for yoga sessions with premium sustainable materials.,"sustainable, activewear, clothing, eco-friendly, sportswear, fashion",88.14
+166,Soothing Face Wash,Beauty,Soothing Face Wash formulated with natural ingredients for sensitive skin.,"organic, beauty, cruelty-free",43.81
+167,Scandinavian Table Lamp,Home Decor,Elegant Scandinavian Table Lamp designed to complement Scandinavian interior styles.,"home-decor, minimalist, boho, rustic, cozy, artisan",138.48
+168,Ergonomic Mouse Pad,Gaming,Dominate the game with this Ergonomic Mouse Pad featuring surround sound.,"mmorpg, controller, pc-gaming, fps, peripheral, rgb, gaming",190.47
+169,AI-Powered Charger,Electronics,"Engineered for professionals, this AI-Powered Charger delivers ergonomic design and seamless connectivity.","portable, wireless, ergonomic, bluetooth, electronics",186.24
+170,Beginner's Workbook,Books,This bestselling Beginner's Workbook on economics has transformed how professionals learn.,"reading, nonfiction, study, learning, books",15.45
+171,Premium Exercise Bike,Fitness,Build strength at home with this Premium Exercise Bike — perfect for flexibility exercises.,"training, home-gym, health, fitness",196.8
+172,Insulated Instant Pot,Kitchen,The Insulated Instant Pot every kitchen needs for baking.,"baking, kitchen, cooking, meal-prep, appliance",91.25
+173,Slim-Fit Joggers,Clothing,"Stay comfortable all day in this Slim-Fit Joggers, designed for office wear.","organic, style, apparel, clothing",141.75
+174,Anti-Aging Moisturizer,Beauty,Achieve glowing skin with this Anti-Aging Moisturizer designed for daily hydration.,"moisturizing, spf, cruelty-free, beauty",118.78
+175,Artisan Rug,Home Decor,Hand-crafted Artisan Rug inspired by minimalist design traditions.,"rustic, boho, interior-design, minimalist, artisan, cozy, home-decor",167.34
+176,Wireless Gaming Mouse,Gaming,Professional-grade Wireless Gaming Mouse built for anti-ghosting and marathon sessions.,"rgb, streamer, peripheral, fps, gaming",213.55
+177,4K Laptop Stand,Electronics,Experience crystal-clear audio with this 4K Laptop Stand featuring fast charging.,"usb-c, audio, gadget, wireless, electronics",145.17
+178,Illustrated Compendium,Books,From basics to mastery: the Illustrated Compendium for anyone interested in creative writing.,"study, book, nonfiction, fiction, education, books",44.63
+179,Professional Resistance Bands,Fitness,"Durable and versatile, the Professional Resistance Bands supports yoga practice training regimens.","cardio, home-gym, exercise, gym, fitness",197.02
+180,Cast Iron Cutting Board,Kitchen,Professional-grade Cast Iron Cutting Board engineered for baking and easy cleanup.,"eco-friendly, food, appliance, meal-prep, kitchen",346.23
+181,Relaxed Track Pants,Clothing,Relaxed Track Pants crafted for everyday comfort with premium sustainable materials.,"eco-friendly, sportswear, apparel, fashion, clothing",62.65
+182,Nourishing Body Lotion,Beauty,Dermatologist-tested Nourishing Body Lotion for anti-aging benefits and long-lasting radiance.,"skincare, clean-beauty, cruelty-free, anti-aging, beauty, organic",23.64
+183,Industrial Mirror,Home Decor,Elegant Industrial Mirror designed to complement living room interior styles.,"home-decor, handmade, rustic, cozy, aesthetic",190.25
+184,RGB Gaming Mouse,Gaming,Professional-grade RGB Gaming Mouse built for hot-swap switches and marathon sessions.,"peripheral, gaming, esports",592.02
+185,4K Earbuds,Electronics,Next-generation 4K Earbuds powered by AI with ergonomic design.,"noise-cancelling, ergonomic, productivity, electronics",83.83
+186,Beginner's Atlas,Books,"Packed with insights, this Beginner's Atlas explores biohacking in depth.","reference, knowledge, fiction, learning, books",23.77
+187,Premium Resistance Bands,Fitness,Elevate your workout with this Premium Resistance Bands optimized for full-body workouts.,"health, training, gym, fitness",43.75
+188,Non-Stick Instant Pot,Kitchen,Professional-grade Non-Stick Instant Pot engineered for meal prep and easy cleanup.,"healthy-eating, eco-friendly, chef, kitchen",194.89
+189,Recycled Jacket,Clothing,Versatile Recycled Jacket that transitions seamlessly from office wear to casual wear.,"clothing, sportswear, apparel, comfort, organic",75.53
+190,Purifying Moisturizer,Beauty,Luxury skincare: Purifying Moisturizer packed with actives for brightening.,"anti-aging, glow, vegan, cruelty-free, organic, beauty",29.4
+191,Coastal Bookshelf,Home Decor,Hand-crafted Coastal Bookshelf inspired by bedroom design traditions.,"rustic, handmade, home-decor",220.29
+192,Ergonomic GPU Cooler,Gaming,The Ergonomic GPU Cooler trusted by esports pros — delivers 6-axis tracking.,"mmorpg, fps, gaming, esports",563.86
+193,Bluetooth Microphone,Electronics,Experience crystal-clear audio with this Bluetooth Microphone featuring low-latency streaming.,"audio, smart, wireless, gadget, tech, electronics",27.78
+194,Illustrated Manual,Books,"Packed with insights, this Illustrated Manual explores psychology in depth.","reading, book, study, bestseller, books",52.32
+195,Foldable Dumbbells,Fitness,Elevate your workout with this Foldable Dumbbells optimized for full-body workouts.,"training, health, gym, workout, fitness",17.6
+196,Cast Iron Pan,Kitchen,"Cook smarter with this Cast Iron Pan, ideal for batch cooking.","cooking, appliance, food, nonstick, kitchen",77.67
+197,Organic Leggings,Clothing,Organic Leggings crafted for everyday comfort with premium sustainable materials.,"organic, eco-friendly, sportswear, clothing",91.84
+198,Hydrating Moisturizer,Beauty,Hydrating Moisturizer formulated with natural ingredients for oil control.,"anti-aging, moisturizing, skincare, spf, beauty, cruelty-free",32.46
+199,Coastal Picture Frame,Home Decor,Coastal Picture Frame that adds character and warmth to any living room space.,"cozy, home-decor, minimalist, handmade, artisan",18.67
+200,Wired Stream Deck,Gaming,The Wired Stream Deck trusted by esports pros — delivers anti-ghosting.,"esports, peripheral, mmorpg, gaming",81.16
+201,Pro Speaker,Electronics,Next-generation Pro Speaker powered by AI with low-latency streaming.,"wireless, noise-cancelling, portable, usb-c, productivity, electronics",129.5
+202,Advanced Primer,Books,This bestselling Advanced Primer on biohacking has transformed how professionals learn.,"learning, nonfiction, reference, fiction, book, bestseller, books",23.39
+203,Resistance Yoga Mat,Fitness,"Durable and versatile, the Resistance Yoga Mat supports recovery sessions training regimens.","gym, training, fitness, exercise, health",117.57
+204,Cast Iron Pot,Kitchen,Cast Iron Pot built for quick sautéing — perfect for everyday cooking and entertaining.,"healthy-eating, eco-friendly, appliance, kitchen",21.84
+205,Stretch Sweatshirt,Clothing,Versatile Stretch Sweatshirt that transitions seamlessly from everyday comfort to casual wear.,"clothing, sustainable, organic, activewear, eco-friendly, sportswear",137.67
+206,SPF-Protected Exfoliant,Beauty,Luxury skincare: SPF-Protected Exfoliant packed with actives for oil control.,"vegan, spf, clean-beauty, glow, beauty",63.73
+207,Coastal Planter,Home Decor,Elegant Coastal Planter designed to complement Scandinavian interior styles.,"minimalist, rustic, home-decor",237.96
+208,Pro GPU Cooler,Gaming,Professional-grade Pro GPU Cooler built for hot-swap switches and marathon sessions.,"mmorpg, streamer, rgb, controller, peripheral, fps, gaming",569.68
+209,Pro Earbuds,Electronics,Experience crystal-clear audio with this Pro Earbuds featuring low-latency streaming.,"audio, portable, usb-c, gadget, ergonomic, productivity, electronics",154.53
+210,Definitive Primer,Books,A Definitive Primer covering software engineering with real-world examples and exercises.,"study, reading, education, fiction, books",48.37
+211,Professional Ab Wheel,Fitness,Elevate your workout with this Professional Ab Wheel optimized for flexibility exercises.,"gym, cardio, yoga, workout, strength, fitness",101.3
+212,Cast Iron Dutch Oven,Kitchen,"Cook smarter with this Cast Iron Dutch Oven, ideal for quick sautéing.","cooking, eco-friendly, nonstick, baking, chef, healthy-eating, kitchen",183.72
+213,Windproof Sweatshirt,Clothing,Versatile Windproof Sweatshirt that transitions seamlessly from athletic performance to casual wear.,"fashion, activewear, comfort, clothing",41.61
+214,Hydrating Exfoliant,Beauty,Achieve glowing skin with this Hydrating Exfoliant designed for pore minimizing.,"skincare, beauty, glow, vegan, cruelty-free, spf",91.89
+215,Artisan Planter,Home Decor,Elegant Artisan Planter designed to complement Scandinavian interior styles.,"handmade, artisan, minimalist, cozy, home-decor",128.44
+216,Ultra-Light Monitor,Gaming,Ultra-Light Monitor engineered for competitive gaming with customizable RGB lighting.,"mmorpg, fps, pc-gaming, mechanical, gaming",475.95
+217,AI-Powered Earbuds,Electronics,Next-generation AI-Powered Earbuds powered by AI with low-latency streaming.,"usb-c, ergonomic, audio, electronics",52.23
+218,Essential Handbook,Books,From basics to mastery: the Essential Handbook for anyone interested in machine learning.,"education, reference, study, books",37.59
+219,Adjustable Balance Board,Fitness,Elevate your workout with this Adjustable Balance Board optimized for recovery sessions.,"cardio, workout, recovery, training, fitness",127.73
+220,Multi-Function Instant Pot,Kitchen,"Cook smarter with this Multi-Function Instant Pot, ideal for smoothie making.","chef, appliance, baking, kitchen",266.52
+221,Thermal Track Pants,Clothing,"Stay comfortable all day in this Thermal Track Pants, designed for everyday comfort.","fashion, activewear, sustainable, clothing, eco-friendly",68.52
+222,Vegan Face Mask,Beauty,Luxury skincare: Vegan Face Mask packed with actives for pore minimizing.,"glow, anti-aging, clean-beauty, skincare, beauty",63.01
+223,Artisan Bookshelf,Home Decor,Artisan Bookshelf that adds character and warmth to any eclectic space.,"cozy, boho, handmade, home-decor, modern, interior-design",84.95
+224,Mechanical Capture Card,Gaming,Professional-grade Mechanical Capture Card built for surround sound and marathon sessions.,"controller, esports, mechanical, gaming",145.67
+225,Portable USB Hub,Electronics,Experience crystal-clear audio with this Portable USB Hub featuring ergonomic design.,"gadget, ergonomic, wireless, audio, electronics",275.48
+226,Complete Manual,Books,This bestselling Complete Manual on history has transformed how professionals learn.,"fiction, reference, bestseller, reading, books",17.1
+227,Premium Jump Rope,Fitness,Elevate your workout with this Premium Jump Rope optimized for recovery sessions.,"gym, training, cardio, exercise, strength, workout, fitness",144.58
+228,Ceramic Coffee Maker,Kitchen,Professional-grade Ceramic Coffee Maker engineered for pressure cooking and easy cleanup.,"meal-prep, kitchen, nonstick, eco-friendly, appliance, chef",18.48
+229,Moisture-Wicking Vest,Clothing,Moisture-Wicking Vest crafted for weekend lounging with premium sustainable materials.,"activewear, apparel, sustainable, fashion, sportswear, clothing",105.09
+230,Anti-Aging Serum,Beauty,Dermatologist-tested Anti-Aging Serum for brightening and long-lasting radiance.,"anti-aging, spf, organic, beauty",56.63
+231,Vintage Throw Pillow,Home Decor,Hand-crafted Vintage Throw Pillow inspired by coastal design traditions.,"interior-design, boho, handmade, home-decor, modern, artisan",39.24
+232,Pro Mouse Pad,Gaming,The Pro Mouse Pad trusted by esports pros — delivers tactile switches.,"rgb, esports, gaming, fps",398.75
+233,Bluetooth Webcam,Electronics,Experience crystal-clear audio with this Bluetooth Webcam featuring USB-C connectivity.,"streaming, noise-cancelling, usb-c, gadget, bluetooth, wireless, electronics",87.2
+234,Essential Journal,Books,From basics to mastery: the Essential Journal for anyone interested in biohacking.,"fiction, education, reference, reading, study, book, books",22.4
+235,Compact Exercise Bike,Fitness,"Compact Exercise Bike designed for home and gym use, featuring HIIT routines.","health, home-gym, recovery, training, strength, fitness",126.64
+236,Non-Stick Air Fryer,Kitchen,"Cook smarter with this Non-Stick Air Fryer, ideal for precision slicing.","chef, eco-friendly, cooking, kitchen",191.02
+237,Recycled Polo,Clothing,Performance-ready Recycled Polo built for office wear in any weather.,"sportswear, eco-friendly, apparel, clothing",56.06
+238,SPF-Protected Moisturizer,Beauty,SPF-Protected Moisturizer formulated with natural ingredients for sensitive skin.,"skincare, cruelty-free, beauty, vegan, moisturizing, glow",22.25
+239,Modern Throw Pillow,Home Decor,"Transform your room with this Modern Throw Pillow, perfect for living room aesthetics.","rustic, cozy, interior-design, minimalist, modern, aesthetic, home-decor",162.46
+240,Optical Capture Card,Gaming,Optical Capture Card engineered for competitive gaming with anti-ghosting.,"pc-gaming, rgb, mmorpg, esports, peripheral, gaming",539.19
+241,Smart Keyboard,Electronics,High-performance Smart Keyboard with advanced noise-cancellation and 40-hour battery life.,"gadget, wireless, usb-c, electronics",194.7
+242,Illustrated Workbook,Books,From basics to mastery: the Illustrated Workbook for anyone interested in astronomy.,"knowledge, fiction, study, bestseller, books",48.78
+243,Premium Balance Board,Fitness,Build strength at home with this Premium Balance Board — perfect for flexibility exercises.,"cardio, fitness, health",169.33
+244,Non-Stick Cutting Board,Kitchen,"Cook smarter with this Non-Stick Cutting Board, ideal for meal prep.","cooking, chef, nonstick, eco-friendly, healthy-eating, kitchen",336.91
+245,Moisture-Wicking Leggings,Clothing,Moisture-Wicking Leggings crafted for everyday comfort with premium sustainable materials.,"sportswear, organic, comfort, activewear, clothing",146.68
+246,Organic Exfoliant,Beauty,Dermatologist-tested Organic Exfoliant for anti-aging benefits and long-lasting radiance.,"skincare, beauty, anti-aging, moisturizing, glow, cruelty-free",41.37
+247,Vintage Table Lamp,Home Decor,"Transform your room with this Vintage Table Lamp, perfect for mid-century modern aesthetics.","rustic, boho, interior-design, artisan, handmade, aesthetic, home-decor",40.6
+248,RGB Headset,Gaming,The RGB Headset trusted by esports pros — delivers 60Hz+ refresh rate.,"streamer, esports, mmorpg, pc-gaming, peripheral, gaming",284.84
+249,Bluetooth Mouse,Electronics,High-performance Bluetooth Mouse with advanced noise-cancellation and fast charging.,"noise-cancelling, portable, streaming, wireless, electronics",123.2
+250,Definitive Manual,Books,"Packed with insights, this Definitive Manual explores machine learning in depth.","reading, study, reference, book, knowledge, bestseller, books",50.18
+251,Resistance Jump Rope,Fitness,"Resistance Jump Rope designed for home and gym use, featuring cardio sessions.","recovery, health, fitness, exercise, home-gym",245.46
+252,Ceramic Food Processor,Kitchen,The Ceramic Food Processor every kitchen needs for meal prep.,"appliance, chef, eco-friendly, baking, kitchen",117.14
+253,Breathable T-Shirt,Clothing,Breathable T-Shirt crafted for everyday comfort with premium sustainable materials.,"eco-friendly, activewear, clothing, sustainable",82.13
+254,Brightening Exfoliant,Beauty,Dermatologist-tested Brightening Exfoliant for sensitive skin and long-lasting radiance.,"vegan, moisturizing, beauty, cruelty-free, skincare",74.1
+255,Vintage Picture Frame,Home Decor,Vintage Picture Frame that adds character and warmth to any bedroom space.,"handmade, artisan, aesthetic, home-decor",242.73
+256,Wired Capture Card,Gaming,Professional-grade Wired Capture Card built for hot-swap switches and marathon sessions.,"esports, controller, mechanical, pc-gaming, peripheral, gaming",484.53
+257,Wireless Mouse,Electronics,"Engineered for professionals, this Wireless Mouse delivers 40-hour battery life and seamless connectivity.","bluetooth, ergonomic, audio, tech, smart, electronics",97.22
+258,Complete Encyclopedia,Books,"Packed with insights, this Complete Encyclopedia explores philosophy in depth.","nonfiction, study, reference, book, bestseller, books",29.64
+259,Compact Ab Wheel,Fitness,"Compact Ab Wheel designed for home and gym use, featuring cardio sessions.","fitness, cardio, gym, exercise, recovery",203.67
+260,Cast Iron Knife Set,Kitchen,"Cook smarter with this Cast Iron Knife Set, ideal for precision slicing.","cooking, nonstick, healthy-eating, appliance, food, kitchen",311.4
+261,Stretch Joggers,Clothing,Stretch Joggers crafted for weekend lounging with premium sustainable materials.,"style, eco-friendly, sustainable, fashion, apparel, clothing",93.34
+262,Vegan Serum,Beauty,Achieve glowing skin with this Vegan Serum designed for anti-aging benefits.,"glow, organic, beauty, anti-aging, clean-beauty, spf",55.46
+263,Industrial Vase,Home Decor,"Transform your room with this Industrial Vase, perfect for home office aesthetics.","interior-design, aesthetic, handmade, rustic, boho, home-decor",144.72
+264,Ultra-Light Stream Deck,Gaming,Ultra-Light Stream Deck engineered for competitive gaming with 60Hz+ refresh rate.,"esports, streamer, rgb, pc-gaming, fps, mmorpg, gaming",360.03
+265,Smart Speaker,Electronics,"Engineered for professionals, this Smart Speaker delivers fast charging and seamless connectivity.","smart, portable, ergonomic, usb-c, productivity, electronics",37.97
+266,Essential Encyclopedia,Books,This bestselling Essential Encyclopedia on economics has transformed how professionals learn.,"knowledge, reading, fiction, bestseller, book, nonfiction, books",49.56
+267,Professional Jump Rope,Fitness,Build strength at home with this Professional Jump Rope — perfect for recovery sessions.,"workout, health, recovery, fitness",253.53
+268,Ceramic Cutting Board,Kitchen,The Ceramic Cutting Board every kitchen needs for quick sautéing.,"baking, kitchen, healthy-eating",29.72
+269,Organic Jacket,Clothing,"Stay comfortable all day in this Organic Jacket, designed for travel.","organic, sportswear, clothing, eco-friendly, comfort",21.15
+270,Purifying Eye Cream,Beauty,Luxury skincare: Purifying Eye Cream packed with actives for sensitive skin.,"clean-beauty, anti-aging, skincare, beauty, spf",119.93
+271,Vintage Rug,Home Decor,"Transform your room with this Vintage Rug, perfect for bohemian aesthetics.","artisan, interior-design, modern, home-decor",247.25
+272,Wired Gaming Chair,Gaming,Wired Gaming Chair engineered for competitive gaming with tactile switches.,"fps, pc-gaming, streamer, mechanical, controller, gaming",360.23
+273,Compact Charger,Electronics,"Engineered for professionals, this Compact Charger delivers low-latency streaming and seamless connectivity.","streaming, portable, usb-c, bluetooth, ergonomic, electronics",45.75
+274,Beginner's Guide,Books,This bestselling Beginner's Guide on history has transformed how professionals learn.,"fiction, bestseller, knowledge, learning, books",25.81
+275,Premium Yoga Mat,Fitness,Elevate your workout with this Premium Yoga Mat optimized for core training.,"training, workout, strength, fitness, yoga",143.83
+276,Multi-Function Blender,Kitchen,"Cook smarter with this Multi-Function Blender, ideal for quick sautéing.","food, healthy-eating, nonstick, kitchen",148.93
+277,Breathable Polo,Clothing,Breathable Polo crafted for athletic performance with premium sustainable materials.,"comfort, clothing, eco-friendly, organic",128.31
+278,Brightening Body Lotion,Beauty,Dermatologist-tested Brightening Body Lotion for brightening and long-lasting radiance.,"anti-aging, beauty, organic, skincare",89.71
+279,Scandinavian Vase,Home Decor,Hand-crafted Scandinavian Vase inspired by living room design traditions.,"modern, home-decor, handmade",220.98
+280,Wired Mechanical Keyboard,Gaming,The Wired Mechanical Keyboard trusted by esports pros — delivers surround sound.,"mechanical, gaming, fps, pc-gaming",405.45
+281,AI-Powered Mouse,Electronics,Next-generation AI-Powered Mouse powered by AI with multi-device pairing.,"productivity, streaming, bluetooth, electronics",155.69
+282,Definitive Workbook,Books,From basics to mastery: the Definitive Workbook for anyone interested in software engineering.,"learning, study, book, knowledge, reading, fiction, books",26.42
+283,Adjustable Kettlebell,Fitness,Elevate your workout with this Adjustable Kettlebell optimized for yoga practice.,"gym, workout, fitness, recovery",44.55
+284,Insulated Food Processor,Kitchen,Professional-grade Insulated Food Processor engineered for precision slicing and easy cleanup.,"meal-prep, kitchen, food, chef, healthy-eating, nonstick",312.11
+285,Relaxed Polo,Clothing,Performance-ready Relaxed Polo built for travel in any weather.,"organic, apparel, clothing, style, comfort",141.46
+286,Purifying Toner,Beauty,Purifying Toner formulated with natural ingredients for overnight repair.,"organic, beauty, moisturizing",48.41
+287,Modern Rug,Home Decor,"Transform your room with this Modern Rug, perfect for eclectic aesthetics.","home-decor, minimalist, artisan",48.0
+288,Ergonomic Gaming Chair,Gaming,The Ergonomic Gaming Chair trusted by esports pros — delivers customizable RGB lighting.,"pc-gaming, esports, controller, gaming",287.99
+289,AI-Powered Monitor,Electronics,High-performance AI-Powered Monitor with advanced noise-cancellation and touch controls.,"productivity, smart, streaming, electronics",251.8
+290,Advanced Manual,Books,This bestselling Advanced Manual on astronomy has transformed how professionals learn.,"learning, bestseller, fiction, nonfiction, books",54.06
+291,Compact Balance Board,Fitness,Elevate your workout with this Compact Balance Board optimized for flexibility exercises.,"home-gym, exercise, fitness, cardio",125.44
+292,Ceramic Toaster,Kitchen,Ceramic Toaster built for meal prep — perfect for everyday cooking and entertaining.,"chef, eco-friendly, appliance, meal-prep, healthy-eating, kitchen",252.11
+293,Stretch Track Pants,Clothing,"Stay comfortable all day in this Stretch Track Pants, designed for travel.","style, apparel, fashion, eco-friendly, organic, clothing",115.55
+294,Organic Lip Balm,Beauty,Luxury skincare: Organic Lip Balm packed with actives for daily hydration.,"clean-beauty, spf, vegan, skincare, glow, beauty",102.9
+295,Minimalist Bookshelf,Home Decor,Hand-crafted Minimalist Bookshelf inspired by minimalist design traditions.,"minimalist, modern, home-decor",196.8
+296,Ultra-Light Capture Card,Gaming,Ultra-Light Capture Card engineered for competitive gaming with anti-ghosting.,"peripheral, mechanical, rgb, fps, gaming",477.09
+297,Ultra Charger,Electronics,High-performance Ultra Charger with advanced noise-cancellation and ergonomic design.,"gadget, ergonomic, audio, streaming, productivity, electronics",160.91
+298,Definitive Journal,Books,"Packed with insights, this Definitive Journal explores psychology in depth.","learning, fiction, knowledge, books",22.01
+299,Heavy-Duty Balance Board,Fitness,"Heavy-Duty Balance Board designed for home and gym use, featuring full-body workouts.","training, health, cardio, gym, fitness",73.58
+300,Non-Stick Blender,Kitchen,Non-Stick Blender built for deep frying — perfect for everyday cooking and entertaining.,"baking, healthy-eating, nonstick, chef, kitchen",225.37
+301,Windproof Shorts,Clothing,Performance-ready Windproof Shorts built for athletic performance in any weather.,"sportswear, clothing, fashion",118.26
+302,Hydrating Serum,Beauty,Hydrating Serum formulated with natural ingredients for brightening.,"spf, skincare, glow, anti-aging, organic, beauty",51.33
+303,Minimalist Mirror,Home Decor,Hand-crafted Minimalist Mirror inspired by home office design traditions.,"handmade, cozy, rustic, modern, home-decor",48.85
+304,Pro Gaming Mouse,Gaming,Pro Gaming Mouse engineered for competitive gaming with tactile switches.,"gaming, streamer, esports",200.19
+305,Portable Keyboard,Electronics,Experience crystal-clear audio with this Portable Keyboard featuring ergonomic design.,"tech, gadget, streaming, portable, electronics",113.27
+306,Illustrated Journal,Books,"Packed with insights, this Illustrated Journal explores machine learning in depth.","nonfiction, learning, study, books",14.9
+307,Heavy-Duty Foam Roller,Fitness,Elevate your workout with this Heavy-Duty Foam Roller optimized for yoga practice.,"recovery, exercise, workout, strength, cardio, fitness",105.14
+308,BPA-Free Blender,Kitchen,The BPA-Free Blender every kitchen needs for meal prep.,"chef, healthy-eating, baking, nonstick, kitchen",134.14
+309,Stretch Vest,Clothing,Performance-ready Stretch Vest built for weekend lounging in any weather.,"sustainable, style, fashion, sportswear, comfort, clothing",98.85
+310,Soothing Exfoliant,Beauty,Soothing Exfoliant formulated with natural ingredients for sensitive skin.,"clean-beauty, glow, cruelty-free, moisturizing, skincare, beauty",49.6
+311,Minimalist Vase,Home Decor,Hand-crafted Minimalist Vase inspired by minimalist design traditions.,"rustic, modern, boho, home-decor",25.05
+312,Ergonomic Stream Deck,Gaming,The Ergonomic Stream Deck trusted by esports pros — delivers anti-ghosting.,"controller, gaming, peripheral, mmorpg, rgb, pc-gaming",429.64
+313,AI-Powered Laptop Stand,Electronics,"Engineered for professionals, this AI-Powered Laptop Stand delivers HD video support and seamless connectivity.","smart, noise-cancelling, ergonomic, audio, electronics",302.08
+314,Illustrated Encyclopedia,Books,This bestselling Illustrated Encyclopedia on biohacking has transformed how professionals learn.,"study, reading, nonfiction, learning, books",46.2
+315,Adjustable Ab Wheel,Fitness,Build strength at home with this Adjustable Ab Wheel — perfect for core training.,"cardio, workout, gym, fitness, home-gym, exercise",259.97
+316,Non-Stick Dutch Oven,Kitchen,"Cook smarter with this Non-Stick Dutch Oven, ideal for smoothie making.","kitchen, nonstick, healthy-eating, cooking, chef",279.07
+317,Windproof Jacket,Clothing,Performance-ready Windproof Jacket built for running in any weather.,"fashion, apparel, organic, comfort, sustainable, clothing",52.96
+318,Anti-Aging Eye Cream,Beauty,Luxury skincare: Anti-Aging Eye Cream packed with actives for brightening.,"skincare, organic, cruelty-free, anti-aging, beauty",86.61
+319,Minimalist Table Lamp,Home Decor,"Transform your room with this Minimalist Table Lamp, perfect for coastal aesthetics.","minimalist, artisan, cozy, home-decor",17.51
+320,Ultra-Light Controller,Gaming,Dominate the game with this Ultra-Light Controller featuring ultra-low latency.,"gaming, mmorpg, mechanical, peripheral",25.16
+321,Ultra Speaker,Electronics,Next-generation Ultra Speaker powered by AI with HD video support.,"noise-cancelling, smart, ergonomic, gadget, wireless, electronics",373.71
+322,Complete Anthology,Books,From basics to mastery: the Complete Anthology for anyone interested in data science.,"knowledge, bestseller, study, reading, learning, books",47.86
+323,Premium Foam Roller,Fitness,Build strength at home with this Premium Foam Roller — perfect for core training.,"strength, training, health, exercise, gym, recovery, fitness",209.68
+324,Ceramic Blender,Kitchen,Ceramic Blender built for slow cooking — perfect for everyday cooking and entertaining.,"eco-friendly, kitchen, nonstick",298.77
+325,Breathable Hoodie,Clothing,Versatile Breathable Hoodie that transitions seamlessly from weekend lounging to casual wear.,"comfort, eco-friendly, sustainable, apparel, clothing",73.52
+326,Soothing Eye Cream,Beauty,Achieve glowing skin with this Soothing Eye Cream designed for overnight repair.,"anti-aging, vegan, clean-beauty, glow, beauty, skincare",89.77
+327,Industrial Rug,Home Decor,Industrial Rug that adds character and warmth to any bedroom space.,"aesthetic, minimalist, interior-design, modern, boho, home-decor",87.69
+328,Wired Monitor,Gaming,Dominate the game with this Wired Monitor featuring 6-axis tracking.,"streamer, mechanical, fps, gaming, peripheral, esports",322.04
+329,Compact Mouse,Electronics,Next-generation Compact Mouse powered by AI with HD video support.,"bluetooth, tech, noise-cancelling, portable, electronics",72.96
+330,Essential Workbook,Books,This bestselling Essential Workbook on creative writing has transformed how professionals learn.,"book, reference, learning, knowledge, study, reading, books",20.85
+331,Premium Pull-Up Bar,Fitness,Elevate your workout with this Premium Pull-Up Bar optimized for recovery sessions.,"fitness, health, yoga, gym",163.51
+332,Multi-Function Cutting Board,Kitchen,Professional-grade Multi-Function Cutting Board engineered for meal prep and easy cleanup.,"chef, healthy-eating, meal-prep, kitchen",18.07
+333,Stretch Hoodie,Clothing,"Stay comfortable all day in this Stretch Hoodie, designed for travel.","fashion, comfort, clothing, style, apparel, eco-friendly",111.16
+334,Soothing Toner,Beauty,Achieve glowing skin with this Soothing Toner designed for oil control.,"cruelty-free, glow, spf, beauty",69.23
+335,Coastal Vase,Home Decor,"Transform your room with this Coastal Vase, perfect for home office aesthetics.","artisan, rustic, minimalist, home-decor, cozy",51.42
+336,Ultra-Light Mouse Pad,Gaming,The Ultra-Light Mouse Pad trusted by esports pros — delivers anti-ghosting.,"peripheral, streamer, rgb, gaming",532.68
+337,Portable Microphone,Electronics,"Engineered for professionals, this Portable Microphone delivers USB-C connectivity and seamless connectivity.","noise-cancelling, productivity, smart, electronics",111.13
+338,Definitive Guide,Books,From basics to mastery: the Definitive Guide for anyone interested in astronomy.,"learning, nonfiction, study, books",57.22
+339,Compact Resistance Bands,Fitness,Build strength at home with this Compact Resistance Bands — perfect for core training.,"health, training, home-gym, recovery, exercise, strength, fitness",285.03
+340,BPA-Free Pot,Kitchen,"Cook smarter with this BPA-Free Pot, ideal for pressure cooking.","cooking, food, nonstick, baking, chef, healthy-eating, kitchen",126.73
+341,Moisture-Wicking Sweatshirt,Clothing,Versatile Moisture-Wicking Sweatshirt that transitions seamlessly from weekend lounging to casual wear.,"sportswear, comfort, eco-friendly, activewear, style, clothing",75.97
+342,Anti-Aging Face Mask,Beauty,Anti-Aging Face Mask formulated with natural ingredients for oil control.,"cruelty-free, moisturizing, vegan, beauty",24.35
+343,Vintage Planter,Home Decor,Hand-crafted Vintage Planter inspired by Scandinavian design traditions.,"rustic, interior-design, handmade, aesthetic, cozy, home-decor",187.54
+344,Wireless Headset,Gaming,Wireless Headset engineered for competitive gaming with anti-ghosting.,"pc-gaming, gaming, streamer, rgb, peripheral, mechanical",313.54
+345,Ultra Microphone,Electronics,Next-generation Ultra Microphone powered by AI with multi-device pairing.,"usb-c, smart, streaming, gadget, electronics",289.35
+346,Illustrated Handbook,Books,A Illustrated Handbook covering data science with real-world examples and exercises.,"study, education, nonfiction, book, books",27.15
+347,Foldable Resistance Bands,Fitness,Elevate your workout with this Foldable Resistance Bands optimized for HIIT routines.,"fitness, strength, health, home-gym, gym, exercise",164.12
+348,Cast Iron Toaster,Kitchen,Professional-grade Cast Iron Toaster engineered for precision slicing and easy cleanup.,"healthy-eating, nonstick, kitchen",99.08
+349,Slim-Fit Leggings,Clothing,Versatile Slim-Fit Leggings that transitions seamlessly from travel to casual wear.,"style, clothing, fashion",70.51
+350,SPF-Protected Face Mask,Beauty,SPF-Protected Face Mask formulated with natural ingredients for UV protection.,"anti-aging, beauty, spf, skincare, glow",46.93
+351,Industrial Candle,Home Decor,Elegant Industrial Candle designed to complement bedroom interior styles.,"handmade, boho, minimalist, cozy, home-decor",243.07
+352,Mechanical GPU Cooler,Gaming,Dominate the game with this Mechanical GPU Cooler featuring surround sound.,"mechanical, gaming, mmorpg, peripheral",420.67
+353,Pro Headphones,Electronics,High-performance Pro Headphones with advanced noise-cancellation and ergonomic design.,"smart, gadget, noise-cancelling, streaming, bluetooth, electronics",104.99
+354,Beginner's Anthology,Books,A Beginner's Anthology covering biohacking with real-world examples and exercises.,"knowledge, study, book, books",53.88
+355,Foldable Jump Rope,Fitness,Build strength at home with this Foldable Jump Rope — perfect for yoga practice.,"exercise, recovery, fitness, workout, health, strength",143.72
+356,Stainless Steel Blender,Kitchen,Professional-grade Stainless Steel Blender engineered for batch cooking and easy cleanup.,"healthy-eating, meal-prep, eco-friendly, kitchen, cooking, chef",211.93
+357,Moisture-Wicking Joggers,Clothing,"Stay comfortable all day in this Moisture-Wicking Joggers, designed for outdoor adventures.","organic, sustainable, sportswear, clothing",114.91
+358,Purifying Face Mask,Beauty,Luxury skincare: Purifying Face Mask packed with actives for daily hydration.,"organic, cruelty-free, clean-beauty, glow, beauty",58.04
+359,Minimalist Candle,Home Decor,"Transform your room with this Minimalist Candle, perfect for living room aesthetics.","interior-design, home-decor, aesthetic, boho, artisan",52.9
+360,RGB Monitor,Gaming,Professional-grade RGB Monitor built for customizable RGB lighting and marathon sessions.,"rgb, esports, fps, pc-gaming, controller, mechanical, gaming",326.66
+361,Pro Tablet,Electronics,High-performance Pro Tablet with advanced noise-cancellation and 40-hour battery life.,"usb-c, streaming, portable, electronics",224.98
+362,Essential Compendium,Books,From basics to mastery: the Essential Compendium for anyone interested in philosophy.,"nonfiction, reference, study, learning, book, education, books",49.24
+363,Resistance Balance Board,Fitness,"Durable and versatile, the Resistance Balance Board supports HIIT routines training regimens.","gym, home-gym, workout, health, fitness",221.49
+364,Insulated Knife Set,Kitchen,Insulated Knife Set built for batch cooking — perfect for everyday cooking and entertaining.,"baking, kitchen, cooking",125.31
+365,Slim-Fit Hoodie,Clothing,Slim-Fit Hoodie crafted for yoga sessions with premium sustainable materials.,"activewear, comfort, eco-friendly, fashion, apparel, clothing",55.95
+366,Nourishing Face Mask,Beauty,Dermatologist-tested Nourishing Face Mask for anti-aging benefits and long-lasting radiance.,"clean-beauty, moisturizing, spf, skincare, glow, beauty",98.23
+367,Rustic Candle,Home Decor,"Transform your room with this Rustic Candle, perfect for bedroom aesthetics.","cozy, artisan, home-decor, interior-design, aesthetic",125.61
+368,Optical GPU Cooler,Gaming,Professional-grade Optical GPU Cooler built for anti-ghosting and marathon sessions.,"mechanical, peripheral, esports, streamer, pc-gaming, gaming",351.47
+369,Smart Microphone,Electronics,High-performance Smart Microphone with advanced noise-cancellation and touch controls.,"portable, noise-cancelling, usb-c, streaming, gadget, bluetooth, electronics",88.98
+370,Advanced Workbook,Books,"Packed with insights, this Advanced Workbook explores software engineering in depth.","fiction, study, knowledge, reference, books",11.5
+371,Resistance Resistance Bands,Fitness,Elevate your workout with this Resistance Resistance Bands optimized for strength building.,"workout, exercise, strength, training, recovery, fitness",130.61
+372,Stainless Steel Cutting Board,Kitchen,Stainless Steel Cutting Board built for batch cooking — perfect for everyday cooking and entertaining.,"nonstick, eco-friendly, healthy-eating, baking, chef, kitchen",93.39
+373,Organic Sweatshirt,Clothing,Performance-ready Organic Sweatshirt built for outdoor adventures in any weather.,"fashion, comfort, activewear, organic, sportswear, sustainable, clothing",76.04
+374,Brightening Face Mask,Beauty,Luxury skincare: Brightening Face Mask packed with actives for anti-aging benefits.,"spf, anti-aging, skincare, glow, beauty",21.06
+375,Industrial Bookshelf,Home Decor,Industrial Bookshelf that adds character and warmth to any minimalist space.,"boho, minimalist, home-decor",192.9
+376,Pro Mechanical Keyboard,Gaming,Pro Mechanical Keyboard engineered for competitive gaming with surround sound.,"streamer, pc-gaming, mmorpg, controller, gaming",245.09
+377,4K Charger,Electronics,Experience crystal-clear audio with this 4K Charger featuring USB-C connectivity.,"tech, gadget, productivity, smart, audio, streaming, electronics",220.26
+378,Beginner's Primer,Books,This bestselling Beginner's Primer on software engineering has transformed how professionals learn.,"bestseller, book, knowledge, study, books",46.54
+379,Adjustable Dumbbells,Fitness,Build strength at home with this Adjustable Dumbbells — perfect for yoga practice.,"training, exercise, fitness",96.73
+380,Stainless Steel Food Processor,Kitchen,Professional-grade Stainless Steel Food Processor engineered for quick sautéing and easy cleanup.,"meal-prep, food, baking, healthy-eating, appliance, cooking, kitchen",176.41
+381,Recycled T-Shirt,Clothing,Recycled T-Shirt crafted for running with premium sustainable materials.,"eco-friendly, apparel, style, organic, clothing",149.16
+382,Soothing Sunscreen,Beauty,Dermatologist-tested Soothing Sunscreen for overnight repair and long-lasting radiance.,"glow, moisturizing, beauty, clean-beauty",38.34
+383,Boho Wall Art,Home Decor,Elegant Boho Wall Art designed to complement home office interior styles.,"artisan, rustic, aesthetic, modern, cozy, interior-design, home-decor",104.24
+384,Wireless Mechanical Keyboard,Gaming,Professional-grade Wireless Mechanical Keyboard built for tactile switches and marathon sessions.,"controller, esports, pc-gaming, rgb, mechanical, gaming",423.02
+385,Portable Mouse,Electronics,High-performance Portable Mouse with advanced noise-cancellation and multi-device pairing.,"wireless, smart, noise-cancelling, audio, ergonomic, electronics",143.94
+386,Beginner's Handbook,Books,"Packed with insights, this Beginner's Handbook explores history in depth.","study, learning, knowledge, fiction, books",22.94
+387,Premium Ab Wheel,Fitness,"Durable and versatile, the Premium Ab Wheel supports core training training regimens.","training, exercise, cardio, fitness, strength",299.14
+388,Non-Stick Knife Set,Kitchen,The Non-Stick Knife Set every kitchen needs for baking.,"cooking, meal-prep, eco-friendly, kitchen, nonstick, chef",260.79
+389,Thermal Vest,Clothing,Thermal Vest crafted for weekend lounging with premium sustainable materials.,"comfort, clothing, eco-friendly",122.4
+390,Hydrating Lip Balm,Beauty,Dermatologist-tested Hydrating Lip Balm for anti-aging benefits and long-lasting radiance.,"clean-beauty, vegan, organic, beauty, anti-aging, skincare",63.26
+391,Boho Mirror,Home Decor,Boho Mirror that adds character and warmth to any home office space.,"interior-design, artisan, boho, home-decor",29.82
+392,Ergonomic Monitor,Gaming,The Ergonomic Monitor trusted by esports pros — delivers anti-ghosting.,"esports, peripheral, rgb, controller, pc-gaming, gaming",464.42
+393,Ultra Webcam,Electronics,High-performance Ultra Webcam with advanced noise-cancellation and fast charging.,"tech, smart, ergonomic, audio, streaming, electronics",230.55
+394,Comprehensive Encyclopedia,Books,A Comprehensive Encyclopedia covering creative writing with real-world examples and exercises.,"learning, education, knowledge, reference, books",18.81
+395,Premium Dumbbells,Fitness,"Durable and versatile, the Premium Dumbbells supports full-body workouts training regimens.","health, cardio, exercise, strength, home-gym, fitness",244.46
+396,Insulated Pan,Kitchen,Insulated Pan built for slow cooking — perfect for everyday cooking and entertaining.,"food, kitchen, eco-friendly, baking",52.1
+397,Organic Polo,Clothing,Performance-ready Organic Polo built for travel in any weather.,"fashion, style, sportswear, clothing",135.75
+398,Vegan Sunscreen,Beauty,Dermatologist-tested Vegan Sunscreen for overnight repair and long-lasting radiance.,"moisturizing, vegan, cruelty-free, glow, skincare, clean-beauty, beauty",117.28
+399,Rustic Bookshelf,Home Decor,Rustic Bookshelf that adds character and warmth to any home office space.,"rustic, minimalist, interior-design, home-decor",215.13
+400,Optical Monitor,Gaming,Professional-grade Optical Monitor built for tactile switches and marathon sessions.,"fps, rgb, peripheral, pc-gaming, gaming",582.82
+401,4K USB Hub,Electronics,Experience crystal-clear audio with this 4K USB Hub featuring USB-C connectivity.,"smart, streaming, gadget, tech, wireless, electronics",220.52
+402,Comprehensive Workbook,Books,"Packed with insights, this Comprehensive Workbook explores history in depth.","knowledge, study, education, books",53.7
+403,Adjustable Foam Roller,Fitness,"Adjustable Foam Roller designed for home and gym use, featuring cardio sessions.","workout, strength, health, gym, fitness",199.97
+404,Multi-Function Air Fryer,Kitchen,The Multi-Function Air Fryer every kitchen needs for pressure cooking.,"nonstick, healthy-eating, baking, kitchen, appliance",138.63
+405,Breathable Vest,Clothing,Performance-ready Breathable Vest built for everyday comfort in any weather.,"style, comfort, fashion, eco-friendly, activewear, clothing",31.34
+406,Purifying Face Wash,Beauty,Purifying Face Wash formulated with natural ingredients for sensitive skin.,"anti-aging, clean-beauty, vegan, organic, cruelty-free, beauty",55.62
+407,Minimalist Picture Frame,Home Decor,Minimalist Picture Frame that adds character and warmth to any Scandinavian space.,"boho, cozy, modern, home-decor",111.74
+408,Pro Gaming Chair,Gaming,The Pro Gaming Chair trusted by esports pros — delivers 60Hz+ refresh rate.,"fps, rgb, pc-gaming, esports, peripheral, streamer, gaming",303.43
+409,Ultra USB Hub,Electronics,Experience crystal-clear audio with this Ultra USB Hub featuring multi-device pairing.,"bluetooth, wireless, audio, tech, electronics",231.62
+410,Essential Manual,Books,A Essential Manual covering psychology with real-world examples and exercises.,"book, bestseller, reference, knowledge, education, books",14.61
+411,Professional Exercise Bike,Fitness,Build strength at home with this Professional Exercise Bike — perfect for flexibility exercises.,"health, fitness, gym, yoga, strength",206.38
+412,BPA-Free Cutting Board,Kitchen,The BPA-Free Cutting Board every kitchen needs for smoothie making.,"baking, meal-prep, nonstick, kitchen",116.81
+413,Windproof Hoodie,Clothing,Performance-ready Windproof Hoodie built for athletic performance in any weather.,"organic, apparel, style, comfort, sustainable, clothing",118.17
+414,Purifying Serum,Beauty,Luxury skincare: Purifying Serum packed with actives for UV protection.,"cruelty-free, organic, beauty, glow",93.87
+415,Coastal Throw Pillow,Home Decor,Elegant Coastal Throw Pillow designed to complement mid-century modern interior styles.,"rustic, artisan, interior-design, minimalist, aesthetic, modern, home-decor",19.11
+416,Ultra-Light Headset,Gaming,Dominate the game with this Ultra-Light Headset featuring ultra-low latency.,"controller, rgb, mmorpg, esports, gaming",181.78
+417,Portable Monitor,Electronics,Experience crystal-clear audio with this Portable Monitor featuring 40-hour battery life.,"audio, usb-c, smart, ergonomic, tech, electronics",69.15
+418,Illustrated Atlas,Books,This bestselling Illustrated Atlas on philosophy has transformed how professionals learn.,"bestseller, knowledge, learning, books",15.82
+419,Heavy-Duty Dumbbells,Fitness,"Durable and versatile, the Heavy-Duty Dumbbells supports yoga practice training regimens.","strength, workout, yoga, training, gym, fitness",217.31
+420,Non-Stick Toaster,Kitchen,Professional-grade Non-Stick Toaster engineered for baking and easy cleanup.,"food, nonstick, kitchen, meal-prep, eco-friendly",324.46
+421,Recycled Vest,Clothing,"Stay comfortable all day in this Recycled Vest, designed for running.","fashion, apparel, comfort, activewear, organic, eco-friendly, clothing",86.84
+422,Brightening Face Wash,Beauty,Luxury skincare: Brightening Face Wash packed with actives for daily hydration.,"anti-aging, cruelty-free, skincare, beauty",22.22
+423,Industrial Table Lamp,Home Decor,Hand-crafted Industrial Table Lamp inspired by bedroom design traditions.,"modern, boho, aesthetic, home-decor",62.05
+424,Optical Stream Deck,Gaming,Dominate the game with this Optical Stream Deck featuring surround sound.,"esports, pc-gaming, fps, mechanical, streamer, peripheral, gaming",386.3
+425,Ultra Headphones,Electronics,High-performance Ultra Headphones with advanced noise-cancellation and fast charging.,"usb-c, noise-cancelling, wireless, electronics",486.58
+426,Comprehensive Manual,Books,This bestselling Comprehensive Manual on creative writing has transformed how professionals learn.,"reference, learning, education, reading, book, bestseller, books",49.84
+427,Resistance Foam Roller,Fitness,Elevate your workout with this Resistance Foam Roller optimized for core training.,"health, gym, home-gym, recovery, fitness",163.75
+428,Multi-Function Knife Set,Kitchen,Professional-grade Multi-Function Knife Set engineered for baking and easy cleanup.,"food, chef, baking, kitchen",161.09
+429,Slim-Fit Jacket,Clothing,Performance-ready Slim-Fit Jacket built for yoga sessions in any weather.,"comfort, fashion, activewear, organic, style, clothing",70.49
+430,Soothing Moisturizer,Beauty,Soothing Moisturizer formulated with natural ingredients for UV protection.,"cruelty-free, anti-aging, moisturizing, glow, organic, beauty",100.5
+431,Scandinavian Mirror,Home Decor,Scandinavian Mirror that adds character and warmth to any home office space.,"boho, rustic, modern, cozy, home-decor, artisan",52.08
+432,Wireless GPU Cooler,Gaming,Professional-grade Wireless GPU Cooler built for hot-swap switches and marathon sessions.,"controller, rgb, fps, esports, mmorpg, pc-gaming, gaming",500.38
+433,Compact Keyboard,Electronics,Next-generation Compact Keyboard powered by AI with fast charging.,"tech, smart, noise-cancelling, gadget, wireless, electronics",475.08
+434,Illustrated Guide,Books,From basics to mastery: the Illustrated Guide for anyone interested in creative writing.,"study, knowledge, reference, education, books",39.14
+435,Heavy-Duty Kettlebell,Fitness,Build strength at home with this Heavy-Duty Kettlebell — perfect for core training.,"training, gym, strength, fitness, workout, home-gym",294.67
+436,Insulated Dutch Oven,Kitchen,Insulated Dutch Oven built for deep frying — perfect for everyday cooking and entertaining.,"kitchen, eco-friendly, meal-prep, nonstick, healthy-eating",318.61
+437,Moisture-Wicking Jacket,Clothing,Versatile Moisture-Wicking Jacket that transitions seamlessly from athletic performance to casual wear.,"clothing, fashion, organic, eco-friendly, activewear",53.16
+438,SPF-Protected Lip Balm,Beauty,SPF-Protected Lip Balm formulated with natural ingredients for anti-aging benefits.,"vegan, anti-aging, clean-beauty, glow, beauty",80.83
+439,Coastal Mirror,Home Decor,Elegant Coastal Mirror designed to complement coastal interior styles.,"aesthetic, handmade, interior-design, cozy, boho, home-decor",205.57
+440,Optical Headset,Gaming,The Optical Headset trusted by esports pros — delivers tactile switches.,"esports, streamer, fps, gaming",205.51
+441,Smart Charger,Electronics,High-performance Smart Charger with advanced noise-cancellation and 40-hour battery life.,"bluetooth, wireless, tech, usb-c, productivity, audio, electronics",214.43
+442,Definitive Atlas,Books,A Definitive Atlas covering philosophy with real-world examples and exercises.,"knowledge, education, study, reference, book, books",15.81
+443,Professional Kettlebell,Fitness,"Professional Kettlebell designed for home and gym use, featuring strength building.","training, cardio, yoga, gym, health, fitness",192.46
+444,Ceramic Instant Pot,Kitchen,Ceramic Instant Pot built for smoothie making — perfect for everyday cooking and entertaining.,"baking, chef, eco-friendly, food, kitchen",160.63
+445,Recycled Shorts,Clothing,Performance-ready Recycled Shorts built for athletic performance in any weather.,"clothing, sportswear, fashion, eco-friendly",63.97
+446,Soothing Lip Balm,Beauty,Achieve glowing skin with this Soothing Lip Balm designed for UV protection.,"beauty, spf, vegan, moisturizing, organic",58.52
+447,Rustic Rug,Home Decor,"Transform your room with this Rustic Rug, perfect for minimalist aesthetics.","boho, rustic, interior-design, home-decor, cozy, minimalist",106.64
+448,Wireless Stream Deck,Gaming,Dominate the game with this Wireless Stream Deck featuring surround sound.,"peripheral, pc-gaming, fps, gaming",324.76
+449,Wireless Earbuds,Electronics,Experience crystal-clear audio with this Wireless Earbuds featuring low-latency streaming.,"audio, portable, noise-cancelling, tech, electronics",362.88
+450,Essential Anthology,Books,"Packed with insights, this Essential Anthology explores psychology in depth.","nonfiction, knowledge, bestseller, reference, fiction, reading, books",46.58
+451,Professional Yoga Mat,Fitness,"Professional Yoga Mat designed for home and gym use, featuring strength building.","gym, training, strength, exercise, fitness, yoga",58.68
+452,Cast Iron Coffee Maker,Kitchen,Professional-grade Cast Iron Coffee Maker engineered for baking and easy cleanup.,"kitchen, cooking, meal-prep, appliance, healthy-eating, chef",175.15
+453,Breathable Leggings,Clothing,"Stay comfortable all day in this Breathable Leggings, designed for everyday comfort.","eco-friendly, sustainable, fashion, clothing",103.7
+454,Organic Sunscreen,Beauty,Dermatologist-tested Organic Sunscreen for daily hydration and long-lasting radiance.,"clean-beauty, beauty, skincare, moisturizing, spf, cruelty-free",115.81
+455,Coastal Wall Art,Home Decor,Elegant Coastal Wall Art designed to complement mid-century modern interior styles.,"handmade, home-decor, modern, boho",75.43
+456,RGB Mechanical Keyboard,Gaming,Professional-grade RGB Mechanical Keyboard built for tactile switches and marathon sessions.,"rgb, fps, esports, controller, gaming",201.4
+457,AI-Powered Tablet,Electronics,"Engineered for professionals, this AI-Powered Tablet delivers fast charging and seamless connectivity.","smart, bluetooth, tech, electronics",368.03
+458,Complete Guide,Books,"Packed with insights, this Complete Guide explores creative writing in depth.","book, reference, bestseller, study, books",53.49
+459,Resistance Dumbbells,Fitness,"Durable and versatile, the Resistance Dumbbells supports strength building training regimens.","gym, yoga, health, strength, fitness",252.26
+460,BPA-Free Instant Pot,Kitchen,BPA-Free Instant Pot built for smoothie making — perfect for everyday cooking and entertaining.,"kitchen, eco-friendly, meal-prep, baking, cooking",49.39
+461,Slim-Fit Track Pants,Clothing,"Stay comfortable all day in this Slim-Fit Track Pants, designed for everyday comfort.","sportswear, sustainable, comfort, activewear, clothing",82.57
+462,Nourishing Toner,Beauty,Dermatologist-tested Nourishing Toner for UV protection and long-lasting radiance.,"cruelty-free, spf, moisturizing, vegan, beauty",49.93
+463,Minimalist Rug,Home Decor,Minimalist Rug that adds character and warmth to any home office space.,"cozy, aesthetic, home-decor, boho",95.79
+464,Mechanical Controller,Gaming,The Mechanical Controller trusted by esports pros — delivers 6-axis tracking.,"mechanical, controller, mmorpg, streamer, gaming",450.54
+465,Pro Charger,Electronics,High-performance Pro Charger with advanced noise-cancellation and multi-device pairing.,"wireless, bluetooth, audio, ergonomic, noise-cancelling, electronics",88.34
+466,Advanced Compendium,Books,A Advanced Compendium covering philosophy with real-world examples and exercises.,"study, learning, education, nonfiction, reference, bestseller, books",28.7
+467,Adjustable Pull-Up Bar,Fitness,Elevate your workout with this Adjustable Pull-Up Bar optimized for full-body workouts.,"cardio, yoga, recovery, training, health, fitness",119.73
+468,Ceramic Pan,Kitchen,Professional-grade Ceramic Pan engineered for batch cooking and easy cleanup.,"chef, meal-prep, baking, food, nonstick, kitchen",287.84
+469,Thermal Jacket,Clothing,Versatile Thermal Jacket that transitions seamlessly from outdoor adventures to casual wear.,"sustainable, eco-friendly, comfort, clothing",121.8
+470,Purifying Sunscreen,Beauty,Luxury skincare: Purifying Sunscreen packed with actives for overnight repair.,"skincare, moisturizing, organic, cruelty-free, clean-beauty, beauty",55.35
+471,Vintage Bookshelf,Home Decor,Elegant Vintage Bookshelf designed to complement Scandinavian interior styles.,"handmade, cozy, rustic, minimalist, artisan, home-decor",148.37
+472,RGB Gaming Chair,Gaming,Professional-grade RGB Gaming Chair built for 60Hz+ refresh rate and marathon sessions.,"rgb, esports, pc-gaming, gaming",43.42
+473,Smart Monitor,Electronics,Next-generation Smart Monitor powered by AI with ergonomic design.,"smart, gadget, tech, electronics",437.81
+474,Comprehensive Guide,Books,A Comprehensive Guide covering psychology with real-world examples and exercises.,"nonfiction, knowledge, book, study, reading, fiction, books",48.61
+475,Foldable Yoga Mat,Fitness,Build strength at home with this Foldable Yoga Mat — perfect for strength building.,"training, yoga, gym, strength, fitness",188.42
+476,BPA-Free Air Fryer,Kitchen,BPA-Free Air Fryer built for slow cooking — perfect for everyday cooking and entertaining.,"meal-prep, eco-friendly, baking, cooking, kitchen",64.1
+477,Organic T-Shirt,Clothing,Performance-ready Organic T-Shirt built for travel in any weather.,"apparel, sustainable, comfort, style, clothing",87.7
+478,SPF-Protected Sunscreen,Beauty,Achieve glowing skin with this SPF-Protected Sunscreen designed for pore minimizing.,"cruelty-free, beauty, skincare, anti-aging",63.56
+479,Rustic Wall Art,Home Decor,Hand-crafted Rustic Wall Art inspired by home office design traditions.,"interior-design, minimalist, boho, aesthetic, home-decor",134.23
+480,Wired GPU Cooler,Gaming,The Wired GPU Cooler trusted by esports pros — delivers surround sound.,"esports, mmorpg, rgb, gaming",179.68
+481,4K Smartwatch,Electronics,"Engineered for professionals, this 4K Smartwatch delivers ergonomic design and seamless connectivity.","tech, ergonomic, audio, noise-cancelling, productivity, bluetooth, electronics",253.5
+482,Comprehensive Primer,Books,A Comprehensive Primer covering biohacking with real-world examples and exercises.,"fiction, learning, book, reference, study, books",30.08
+483,Foldable Balance Board,Fitness,Build strength at home with this Foldable Balance Board — perfect for full-body workouts.,"gym, exercise, home-gym, yoga, training, health, fitness",287.18
+484,Insulated Pot,Kitchen,Professional-grade Insulated Pot engineered for pressure cooking and easy cleanup.,"meal-prep, healthy-eating, nonstick, kitchen",233.36
+485,Windproof Polo,Clothing,Versatile Windproof Polo that transitions seamlessly from running to casual wear.,"sportswear, activewear, fashion, eco-friendly, clothing",21.18
+486,Hydrating Toner,Beauty,Dermatologist-tested Hydrating Toner for anti-aging benefits and long-lasting radiance.,"anti-aging, vegan, beauty, cruelty-free, clean-beauty, organic",28.93
+487,Minimalist Throw Pillow,Home Decor,"Transform your room with this Minimalist Throw Pillow, perfect for eclectic aesthetics.","minimalist, handmade, boho, home-decor, cozy, interior-design",108.2
+488,Ergonomic Gaming Mouse,Gaming,Professional-grade Ergonomic Gaming Mouse built for 60Hz+ refresh rate and marathon sessions.,"pc-gaming, rgb, streamer, gaming",303.4
+489,4K Mouse,Electronics,High-performance 4K Mouse with advanced noise-cancellation and multi-device pairing.,"bluetooth, productivity, tech, smart, wireless, electronics",209.01
+490,Complete Journal,Books,This bestselling Complete Journal on psychology has transformed how professionals learn.,"book, reference, study, books",19.39
+491,Compact Pull-Up Bar,Fitness,"Durable and versatile, the Compact Pull-Up Bar supports core training training regimens.","home-gym, gym, training, fitness",130.92
+492,Ceramic Dutch Oven,Kitchen,The Ceramic Dutch Oven every kitchen needs for slow cooking.,"baking, food, chef, nonstick, kitchen",46.0
+493,Recycled Sweatshirt,Clothing,Performance-ready Recycled Sweatshirt built for office wear in any weather.,"sustainable, clothing, apparel, comfort",36.42
+494,Brightening Serum,Beauty,Brightening Serum formulated with natural ingredients for anti-aging benefits.,"skincare, vegan, beauty, cruelty-free",91.51
+495,Artisan Vase,Home Decor,Artisan Vase that adds character and warmth to any home office space.,"minimalist, cozy, modern, home-decor, boho",131.43
+496,Wireless Gaming Chair,Gaming,Professional-grade Wireless Gaming Chair built for customizable RGB lighting and marathon sessions.,"peripheral, esports, fps, rgb, gaming",302.79
+497,Bluetooth Smartwatch,Electronics,Experience crystal-clear audio with this Bluetooth Smartwatch featuring touch controls.,"smart, productivity, ergonomic, tech, bluetooth, electronics",479.68
+498,Complete Workbook,Books,"Packed with insights, this Complete Workbook explores software engineering in depth.","fiction, book, education, reading, books",10.02
+499,Heavy-Duty Exercise Bike,Fitness,"Heavy-Duty Exercise Bike designed for home and gym use, featuring core training.","health, yoga, gym, home-gym, fitness",283.41
+500,Cast Iron Blender,Kitchen,The Cast Iron Blender every kitchen needs for smoothie making.,"kitchen, appliance, meal-prep, cooking, eco-friendly",338.27
+501,Relaxed Leggings,Clothing,Relaxed Leggings crafted for outdoor adventures with premium sustainable materials.,"fashion, sportswear, comfort, clothing",130.84
+502,Anti-Aging Sunscreen,Beauty,Anti-Aging Sunscreen formulated with natural ingredients for pore minimizing.,"vegan, skincare, organic, beauty, glow, moisturizing",17.46
+503,Rustic Throw Pillow,Home Decor,"Transform your room with this Rustic Throw Pillow, perfect for Scandinavian aesthetics.","boho, home-decor, modern",146.21
+504,Wired Controller,Gaming,Dominate the game with this Wired Controller featuring 6-axis tracking.,"rgb, esports, pc-gaming, gaming",242.03
+505,Wireless USB Hub,Electronics,"Engineered for professionals, this Wireless USB Hub delivers ergonomic design and seamless connectivity.","ergonomic, bluetooth, streaming, electronics",55.4
+506,Advanced Anthology,Books,A Advanced Anthology covering software engineering with real-world examples and exercises.,"education, knowledge, nonfiction, books",59.3
+507,Resistance Ab Wheel,Fitness,"Resistance Ab Wheel designed for home and gym use, featuring flexibility exercises.","fitness, cardio, exercise, home-gym",196.16
+508,Eco-Friendly Knife Set,Kitchen,"Cook smarter with this Eco-Friendly Knife Set, ideal for pressure cooking.","nonstick, chef, cooking, kitchen",256.55
+509,Moisture-Wicking Shorts,Clothing,Moisture-Wicking Shorts crafted for running with premium sustainable materials.,"style, apparel, eco-friendly, organic, clothing",61.12
+510,Purifying Lip Balm,Beauty,Achieve glowing skin with this Purifying Lip Balm designed for pore minimizing.,"clean-beauty, anti-aging, moisturizing, beauty, skincare",59.92
+511,Artisan Throw Pillow,Home Decor,Artisan Throw Pillow that adds character and warmth to any minimalist space.,"handmade, boho, cozy, aesthetic, artisan, home-decor",144.61
+512,RGB Controller,Gaming,RGB Controller engineered for competitive gaming with 60Hz+ refresh rate.,"controller, streamer, peripheral, gaming, rgb",474.75
+513,4K Headphones,Electronics,Experience crystal-clear audio with this 4K Headphones featuring ergonomic design.,"ergonomic, tech, smart, audio, noise-cancelling, gadget, electronics",130.86
+514,Illustrated Primer,Books,A Illustrated Primer covering creative writing with real-world examples and exercises.,"learning, education, book, fiction, nonfiction, books",53.34
+515,Compact Jump Rope,Fitness,"Durable and versatile, the Compact Jump Rope supports cardio sessions training regimens.","exercise, gym, training, fitness, health, yoga",76.93
+516,Stainless Steel Pan,Kitchen,The Stainless Steel Pan every kitchen needs for precision slicing.,"healthy-eating, meal-prep, kitchen",29.81
+517,Thermal Leggings,Clothing,Versatile Thermal Leggings that transitions seamlessly from everyday comfort to casual wear.,"sportswear, apparel, organic, style, activewear, clothing",38.01
+518,Vegan Exfoliant,Beauty,Vegan Exfoliant formulated with natural ingredients for UV protection.,"vegan, anti-aging, beauty, organic, spf, clean-beauty",102.14
+519,Scandinavian Picture Frame,Home Decor,Scandinavian Picture Frame that adds character and warmth to any bohemian space.,"aesthetic, boho, interior-design, home-decor, handmade, artisan",156.88
+520,RGB Stream Deck,Gaming,Dominate the game with this RGB Stream Deck featuring customizable RGB lighting.,"esports, controller, gaming, streamer",315.83
