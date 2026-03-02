@@ -1,7 +1,7 @@
 # 🛍️ Product Recommendation System
 
-A production-ready, content-based product recommendation engine with an interactive Streamlit frontend — optimised for local execution on **Apple M4 / MacBook Air**.
-
+A production-ready, content-based product recommendation engine with an interactive Streamlit frontend 
+Link [ https://imhs14-product-recommender-app-dvqzp4.streamlit.app/ ]
 ---
 
 ## 📐 Architecture Overview
